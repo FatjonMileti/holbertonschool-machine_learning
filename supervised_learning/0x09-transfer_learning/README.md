@@ -62,4 +62,4 @@ Write a blog post explaining your experimental process in completing the task ab
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

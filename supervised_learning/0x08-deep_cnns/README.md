@@ -1898,4 +1898,4 @@ Write a function `def densenet121(growth_rate=32, compression=1.0):` that builds
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

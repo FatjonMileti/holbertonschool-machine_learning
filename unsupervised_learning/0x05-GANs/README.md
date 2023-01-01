@@ -161,4 +161,4 @@ Write a function def train_gan(X, epochs, batch_size, Z_dim, save_path='/tmp'): 
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

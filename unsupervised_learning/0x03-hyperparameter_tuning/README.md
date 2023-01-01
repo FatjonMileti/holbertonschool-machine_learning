@@ -316,4 +316,4 @@ Once you have finished your script, write a blog post describing your approach t
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

@@ -312,4 +312,4 @@ Write the function `def early_stopping(cost, opt_cost, threshold, patience, coun
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

@@ -15,4 +15,4 @@ This repository contains directories pertaining to the Machine Learning Speciali
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

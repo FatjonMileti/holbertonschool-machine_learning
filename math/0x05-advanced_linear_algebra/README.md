@@ -166,4 +166,4 @@ Write a function `def definiteness(matrix):` that calculates the definiteness of
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

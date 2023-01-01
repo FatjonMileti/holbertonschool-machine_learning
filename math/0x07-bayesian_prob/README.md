@@ -162,4 +162,4 @@ Based on `3-posterior.py`, write a function `def posterior(x, n, p1, p2):` that 
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

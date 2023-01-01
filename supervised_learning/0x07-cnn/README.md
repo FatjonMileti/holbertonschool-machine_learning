@@ -878,4 +878,4 @@ Write a function `def lenet5(X):` that builds a modified version of the `LeNet-5
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

@@ -242,4 +242,4 @@ Write the function `def evaluate(X, Y, save_path):` that evaluates the output of
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

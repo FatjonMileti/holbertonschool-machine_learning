@@ -1139,4 +1139,4 @@ Write a function `def predict(network, data, verbose=False):` that makes a predi
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

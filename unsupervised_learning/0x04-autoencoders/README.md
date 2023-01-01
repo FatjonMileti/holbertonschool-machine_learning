@@ -240,4 +240,4 @@ Write a function `def autoencoder(input_dims, hidden_layers, latent_dims):` that
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

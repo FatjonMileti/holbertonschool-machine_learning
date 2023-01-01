@@ -327,4 +327,4 @@ pca_data = np.matmul(norm_data, Vh[:3].T)
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

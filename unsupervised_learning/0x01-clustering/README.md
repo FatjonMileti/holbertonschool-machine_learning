@@ -645,4 +645,4 @@ Write a function `def agglomerative(X, dist):` that performs agglomerative clust
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)

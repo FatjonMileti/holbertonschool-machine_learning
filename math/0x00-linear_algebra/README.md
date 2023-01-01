@@ -505,4 +505,4 @@ _Note the time difference between the standard `Python3` library and the `numpy`
 
 ## Author
 
-- **Pierre Beaujuge** - [PierreBeaujuge](https://github.com/PierreBeaujuge)
+- **Fatjon Mileti** - [FatjonMileti](https://github.com/FatjonMileti)
